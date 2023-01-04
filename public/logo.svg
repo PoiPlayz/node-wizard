@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="120.371826px" height="108.58417px" viewBox="0 0 120.371826 108.58417" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="33.302143" y2="34.65414" id="gradient_1">
+      <stop offset="0%" stop-color="#F15A29" />
+      <stop offset="70.35202%" stop-color="#F28B40" />
+      <stop offset="100%" stop-color="#F7E93C" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-2.4023473" y1="-24.530453" x2="10.919617" y2="23.5181" id="gradient_2">
+      <stop offset="0%" stop-color="#F15A29" />
+      <stop offset="70.35202%" stop-color="#F28B40" />
+      <stop offset="100%" stop-color="#F7E93C" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="21.185946" y1="32.4001" x2="-1.5349984" y2="-2.2297297" id="gradient_3">
+      <stop offset="0%" stop-color="#F15A29" />
+      <stop offset="70.35202%" stop-color="#F28B40" />
+      <stop offset="100%" stop-color="#F7E93C" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-4.75091" y1="-44.47071" x2="13.323102" y2="23.519733" id="gradient_4">
+      <stop offset="0%" stop-color="#F15A29" />
+      <stop offset="70.35202%" stop-color="#F28B40" />
+      <stop offset="100%" stop-color="#F7E93C" />
+    </linearGradient>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="6" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.94509804 0 0 0 0 0.43137255 0 0 0 0 0.19607843 0 0 0 1 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <g id="Group" transform="translate(18 16)">
+    <g filter="url(#filter_1)">
+      <g id="Group-4">
+        <path d="M0 0L16.0155 34.6541L42.3681 24.7251L0 0L0 0Z" id="Vector" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+        <path d="M42.3681 72.5789L42.3681 24.5305L15.7243 34.4595L42.3681 72.5789L42.3681 72.5789Z" id="Vector-Copy" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <g filter="url(#filter_1)">
+      <g id="Group-4-Copy" transform="translate(42 0)">
+        <path d="M42.3718 0L26.355 34.6565L0 24.7269L42.3718 0L42.3718 0Z" id="Vector#1" fill="url(#gradient_3)" fill-rule="evenodd" stroke="none" />
+        <path d="M3.59471e-05 72.5842L2.34701e-05 24.5322L26.6462 34.4618L3.59471e-05 72.5842L3.59471e-05 72.5842Z" id="Vector-Copy#1" fill="url(#gradient_4)" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
